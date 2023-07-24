@@ -1,4 +1,4 @@
-# Butterfly website Readme
+# Butterfly Website Readme
 
 ```
 ##  link to website:

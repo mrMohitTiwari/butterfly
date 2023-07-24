@@ -912,9 +912,6 @@ hr {
     width: 12rem;
     height: 1rem;
   }
-  .nav-cont-mob {
-    display: block;
-  }
 }
 body,
 .section-account,

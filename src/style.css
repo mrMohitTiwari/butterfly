@@ -384,14 +384,12 @@ label span {
   gap: 1rem;
 }
 .circular-chart {
-  /* background-color: #fff; */
   display: flex;
   justify-content: centers;
   align-items: center;
   gap: 0.2rem;
 }
 .options {
-  /* background-color: #e75252; */
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
@@ -406,10 +404,7 @@ label span {
 
   width: 4.7rem;
 
-  /* border: solid red 1px; */
   background-color: #fafafa;
-  /* display: flex; */
-  /* flex-direction: column; */
   margin-top: 0.45rem;
   padding: 0.3rem 0.4rem 0rem;
 }
@@ -417,7 +412,6 @@ label span {
   font-size: 0.25rem;
   font-family: sans-serif;
   font-weight: 700;
-  /* color: #878686; */
   color: #464646;
 }
 .strategy p {
@@ -425,19 +419,15 @@ label span {
   color: #5f5f5f;
   margin-top: 0.2rem;
   font-weight: 700;
-
-  /* display: inline-block; */
 }
 
 .strategy span {
   font-size: 0.19rem;
-  /* padding-bottom: 0.4rem; */
   display: inline-block;
 }
 /* .strategy; */
 .strategy :nth-child(7),
 :nth-child(8) {
-  /* background-color: #a42323; */
   display: flex;
   justify-content: space-between;
 }
@@ -515,7 +505,6 @@ hr {
   background-color: #4935ff;
 }
 .nav-for-mob {
-  /* border: 2px solid rebeccapurple; */
   display: flex;
   justify-content: center;
   align-items: center;
